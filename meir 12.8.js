@@ -2747,7 +2747,7 @@ p.nominalBounds = new cjs.Rectangle(3,0,66.3,155.2);
 		self.stop();
 		
 		self.playbut.addEventListener("click", clickPlayStart);
-		createjs.Sound.registerSound("/meit111/sounds/soundmeir.mp3","soundmeir");
+		createjs.Sound.registerSound("/meir111/sounds/soundmeir.mp3","soundmeir");
 		
 		  
 		  
